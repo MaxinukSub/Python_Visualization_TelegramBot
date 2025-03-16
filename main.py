@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import os
 from keyboards.inline_kbs import create_plot
 
-TOKEN = '7925800685:AAH_CoPC-Bf2dQute3Yr_zfub2ddt7dETN0'
+TOKEN = ''
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
 
